@@ -1,0 +1,1147 @@
+{
+  "segments": [
+    {
+      "start": 6.735,
+      "end": 7.075,
+      "text": " Hello.",
+      "words": [
+        {
+          "word": "Hello.",
+          "start": 6.735,
+          "end": 7.075,
+          "score": 0.561,
+          "speaker": "SPEAKER_01"
+        }
+      ],
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7.616,
+      "end": 8.156,
+      "text": "Hello.",
+      "words": [
+        {
+          "word": "Hello.",
+          "start": 7.616,
+          "end": 8.156,
+          "score": 0.819,
+          "speaker": "SPEAKER_01"
+        }
+      ],
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8.416,
+      "end": 8.856,
+      "text": "Oh, hello.",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 8.416,
+          "end": 8.516,
+          "score": 0.674,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "hello.",
+          "start": 8.556,
+          "end": 8.856,
+          "score": 0.838,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 8.896,
+      "end": 9.777,
+      "text": "I didn't know you were there.",
+      "words": [
+        {
+          "word": "I",
+          "start": 8.896,
+          "end": 8.937,
+          "score": 0.942,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "didn't",
+          "start": 8.977,
+          "end": 9.157,
+          "score": 0.884,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "know",
+          "start": 9.197,
+          "end": 9.277,
+          "score": 0.881,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "you",
+          "start": 9.297,
+          "end": 9.377,
+          "score": 0.515,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "were",
+          "start": 9.417,
+          "end": 9.517,
+          "score": 0.84,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "there.",
+          "start": 9.557,
+          "end": 9.777,
+          "score": 0.841,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10.037,
+      "end": 11.178,
+      "text": "Neither did I. Okay.",
+      "words": [
+        {
+          "word": "Neither",
+          "start": 10.037,
+          "end": 10.337,
+          "score": 0.659,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "did",
+          "start": 10.358,
+          "end": 10.578,
+          "score": 0.931,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "I.",
+          "start": 10.758,
+          "end": 10.858,
+          "score": 0.939,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Okay.",
+          "start": 10.958,
+          "end": 11.178,
+          "score": 0.452,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 11.258,
+      "end": 12.459,
+      "text": "I thought, you know, I heard of deep.",
+      "words": [
+        {
+          "word": "I",
+          "start": 11.258,
+          "end": 11.358,
+          "score": 0.838,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "thought,",
+          "start": 11.398,
+          "end": 11.618,
+          "score": 0.882,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "you",
+          "start": 11.718,
+          "end": 11.819,
+          "score": 0.925,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "know,",
+          "start": 11.839,
+          "end": 11.959,
+          "score": 0.389,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "I",
+          "start": 11.979,
+          "end": 11.999,
+          "score": 0.014,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "heard",
+          "start": 12.019,
+          "end": 12.179,
+          "score": 0.763,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 12.219,
+          "end": 12.259,
+          "score": 0.895,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "deep.",
+          "start": 12.299,
+          "end": 12.459,
+          "score": 0.562,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12.519,
+      "end": 14.18,
+      "text": "This is Diane in New Jersey.",
+      "words": [
+        {
+          "word": "This",
+          "start": 12.519,
+          "end": 12.659,
+          "score": 0.968,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "is",
+          "start": 12.739,
+          "end": 12.819,
+          "score": 0.952,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Diane",
+          "start": 12.879,
+          "end": 13.3,
+          "score": 0.54,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 13.36,
+          "end": 13.42,
+          "score": 0.531,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "New",
+          "start": 13.46,
+          "end": 13.58,
+          "score": 0.817,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Jersey.",
+          "start": 13.62,
+          "end": 14.18,
+          "score": 0.785,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 14.2,
+      "end": 17.743,
+      "text": "And I'm Sheila and Texas originally from Chicago.",
+      "words": [
+        {
+          "word": "And",
+          "start": 14.2,
+          "end": 14.5,
+          "score": 0.281,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "I'm",
+          "start": 14.58,
+          "end": 14.741,
+          "score": 0.402,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Sheila",
+          "start": 14.801,
+          "end": 15.321,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 15.401,
+          "end": 15.541,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Texas",
+          "start": 15.621,
+          "end": 16.282,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "originally",
+          "start": 16.402,
+          "end": 16.922,
+          "score": 0.709,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 16.942,
+          "end": 17.122,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Chicago.",
+          "start": 17.182,
+          "end": 17.743,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 17.763,
+      "end": 20.104,
+      "text": "Oh, I'm originally from Chicago also.",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 17.763,
+          "end": 17.803,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I'm",
+          "start": 18.483,
+          "end": 18.603,
+          "score": 0.615,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "originally",
+          "start": 18.683,
+          "end": 19.043,
+          "score": 0.574,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "from",
+          "start": 19.063,
+          "end": 19.224,
+          "score": 0.785,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Chicago",
+          "start": 19.264,
+          "end": 19.744,
+          "score": 0.881,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "also.",
+          "start": 19.804,
+          "end": 20.104,
+          "score": 0.913,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 20.144,
+      "end": 21.445,
+      "text": "I'm in New Jersey now though.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 20.144,
+          "end": 20.264,
+          "score": 0.714,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 20.304,
+          "end": 20.344,
+          "score": 0.679,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "New",
+          "start": 20.404,
+          "end": 20.504,
+          "score": 0.829,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Jersey",
+          "start": 20.545,
+          "end": 20.945,
+          "score": 0.816,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "now",
+          "start": 20.985,
+          "end": 21.165,
+          "score": 0.959,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "though.",
+          "start": 21.225,
+          "end": 21.445,
+          "score": 0.881,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 21.905,
+      "end": 23.927,
+      "text": "Well, there is not much difference.",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 21.905,
+          "end": 22.306,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there",
+          "start": 22.406,
+          "end": 22.586,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 22.646,
+          "end": 22.786,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 22.806,
+          "end": 23.006,
+          "score": 0.658,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "much",
+          "start": 23.066,
+          "end": 23.286,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "difference.",
+          "start": 23.386,
+          "end": 23.927,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24.027,
+      "end": 27.369,
+      "text": "At least, you know, they all call me a Yankee down here.",
+      "words": [
+        {
+          "word": "At",
+          "start": 24.027,
+          "end": 24.107,
+          "score": 0.64,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "least,",
+          "start": 24.167,
+          "end": 24.827,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 24.968,
+          "end": 25.068,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know,",
+          "start": 25.108,
+          "end": 25.248,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 25.268,
+          "end": 25.408,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 25.448,
+          "end": 25.588,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "call",
+          "start": 25.648,
+          "end": 25.928,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 25.968,
+          "end": 26.168,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 26.228,
+          "end": 26.268,
+          "score": 0.495,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Yankee",
+          "start": 26.348,
+          "end": 26.789,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "down",
+          "start": 26.829,
+          "end": 27.089,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "here.",
+          "start": 27.149,
+          "end": 27.369,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 27.449,
+      "end": 29.811,
+      "text": "So I don't hear that New Jersey now.",
+      "words": [
+        {
+          "word": "So",
+          "start": 27.449,
+          "end": 28.27,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 28.49,
+          "end": 28.55,
+          "score": 0.669,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "don't",
+          "start": 28.57,
+          "end": 28.73,
+          "score": 0.787,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "hear",
+          "start": 28.77,
+          "end": 28.93,
+          "score": 0.764,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "that",
+          "start": 28.97,
+          "end": 29.11,
+          "score": 0.85,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "New",
+          "start": 29.17,
+          "end": 29.291,
+          "score": 0.74,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Jersey",
+          "start": 29.311,
+          "end": 29.671,
+          "score": 0.879,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "now.",
+          "start": 29.711,
+          "end": 29.811,
+          "score": 0.342,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Hello.",
+      "start": 6.735,
+      "end": 7.075,
+      "score": 0.561,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Hello.",
+      "start": 7.616,
+      "end": 8.156,
+      "score": 0.819,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Oh,",
+      "start": 8.416,
+      "end": 8.516,
+      "score": 0.674,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "hello.",
+      "start": 8.556,
+      "end": 8.856,
+      "score": 0.838,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "I",
+      "start": 8.896,
+      "end": 8.937,
+      "score": 0.942,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "didn't",
+      "start": 8.977,
+      "end": 9.157,
+      "score": 0.884,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "know",
+      "start": 9.197,
+      "end": 9.277,
+      "score": 0.881,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "you",
+      "start": 9.297,
+      "end": 9.377,
+      "score": 0.515,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "were",
+      "start": 9.417,
+      "end": 9.517,
+      "score": 0.84,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "there.",
+      "start": 9.557,
+      "end": 9.777,
+      "score": 0.841,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Neither",
+      "start": 10.037,
+      "end": 10.337,
+      "score": 0.659,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "did",
+      "start": 10.358,
+      "end": 10.578,
+      "score": 0.931,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "I.",
+      "start": 10.758,
+      "end": 10.858,
+      "score": 0.939,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Okay.",
+      "start": 10.958,
+      "end": 11.178,
+      "score": 0.452,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "I",
+      "start": 11.258,
+      "end": 11.358,
+      "score": 0.838,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "thought,",
+      "start": 11.398,
+      "end": 11.618,
+      "score": 0.882,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "you",
+      "start": 11.718,
+      "end": 11.819,
+      "score": 0.925,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "know,",
+      "start": 11.839,
+      "end": 11.959,
+      "score": 0.389,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "I",
+      "start": 11.979,
+      "end": 11.999,
+      "score": 0.014,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "heard",
+      "start": 12.019,
+      "end": 12.179,
+      "score": 0.763,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 12.219,
+      "end": 12.259,
+      "score": 0.895,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "deep.",
+      "start": 12.299,
+      "end": 12.459,
+      "score": 0.562,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "This",
+      "start": 12.519,
+      "end": 12.659,
+      "score": 0.968,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "is",
+      "start": 12.739,
+      "end": 12.819,
+      "score": 0.952,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Diane",
+      "start": 12.879,
+      "end": 13.3,
+      "score": 0.54,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 13.36,
+      "end": 13.42,
+      "score": 0.531,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "New",
+      "start": 13.46,
+      "end": 13.58,
+      "score": 0.817,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Jersey.",
+      "start": 13.62,
+      "end": 14.18,
+      "score": 0.785,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "And",
+      "start": 14.2,
+      "end": 14.5,
+      "score": 0.281,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "I'm",
+      "start": 14.58,
+      "end": 14.741,
+      "score": 0.402,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Sheila",
+      "start": 14.801,
+      "end": 15.321,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 15.401,
+      "end": 15.541,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Texas",
+      "start": 15.621,
+      "end": 16.282,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "originally",
+      "start": 16.402,
+      "end": 16.922,
+      "score": 0.709,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 16.942,
+      "end": 17.122,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Chicago.",
+      "start": 17.182,
+      "end": 17.743,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Oh,",
+      "start": 17.763,
+      "end": 17.803,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 18.483,
+      "end": 18.603,
+      "score": 0.615,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "originally",
+      "start": 18.683,
+      "end": 19.043,
+      "score": 0.574,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "from",
+      "start": 19.063,
+      "end": 19.224,
+      "score": 0.785,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Chicago",
+      "start": 19.264,
+      "end": 19.744,
+      "score": 0.881,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "also.",
+      "start": 19.804,
+      "end": 20.104,
+      "score": 0.913,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "I'm",
+      "start": 20.144,
+      "end": 20.264,
+      "score": 0.714,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 20.304,
+      "end": 20.344,
+      "score": 0.679,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "New",
+      "start": 20.404,
+      "end": 20.504,
+      "score": 0.829,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Jersey",
+      "start": 20.545,
+      "end": 20.945,
+      "score": 0.816,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "now",
+      "start": 20.985,
+      "end": 21.165,
+      "score": 0.959,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "though.",
+      "start": 21.225,
+      "end": 21.445,
+      "score": 0.881,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Well,",
+      "start": 21.905,
+      "end": 22.306,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there",
+      "start": 22.406,
+      "end": 22.586,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 22.646,
+      "end": 22.786,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 22.806,
+      "end": 23.006,
+      "score": 0.658,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "much",
+      "start": 23.066,
+      "end": 23.286,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "difference.",
+      "start": 23.386,
+      "end": 23.927,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "At",
+      "start": 24.027,
+      "end": 24.107,
+      "score": 0.64,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "least,",
+      "start": 24.167,
+      "end": 24.827,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 24.968,
+      "end": 25.068,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know,",
+      "start": 25.108,
+      "end": 25.248,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 25.268,
+      "end": 25.408,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 25.448,
+      "end": 25.588,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "call",
+      "start": 25.648,
+      "end": 25.928,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 25.968,
+      "end": 26.168,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 26.228,
+      "end": 26.268,
+      "score": 0.495,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Yankee",
+      "start": 26.348,
+      "end": 26.789,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "down",
+      "start": 26.829,
+      "end": 27.089,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "here.",
+      "start": 27.149,
+      "end": 27.369,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 27.449,
+      "end": 28.27,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 28.49,
+      "end": 28.55,
+      "score": 0.669,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "don't",
+      "start": 28.57,
+      "end": 28.73,
+      "score": 0.787,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "hear",
+      "start": 28.77,
+      "end": 28.93,
+      "score": 0.764,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "that",
+      "start": 28.97,
+      "end": 29.11,
+      "score": 0.85,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "New",
+      "start": 29.17,
+      "end": 29.291,
+      "score": 0.74,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Jersey",
+      "start": 29.311,
+      "end": 29.671,
+      "score": 0.879,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "now.",
+      "start": 29.711,
+      "end": 29.811,
+      "score": 0.342,
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "language": "en"
+}
