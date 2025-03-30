@@ -9,7 +9,7 @@ Run different pipelines of WhisperX - _Transcription, Diarization, VAD, Alignmen
   - [pyannote/wespeaker-voxceleb-resnet34-LM](https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM)
   - [pyannote/segmentation-3.0](https://huggingface.co/pyannote/segmentation-3.0)
 - Wav2Vec2 - [PyTorch link](https://download.pytorch.org/torchaudio/models/wav2vec2_fairseq_base_ls960_asr_ls960.pth)
-- [VAD(Voice Activity Detection) Model](https://en.wikipedia.org/wiki/Voice_activity_detection) - download the model weights from [here](https://whisperx.s3.eu-west-2.amazonaws.com/model_weights/segmentation/0b5b3216d60a2d32fc086b47ea8c67589aaeb26b7e07fcbe620d6d0b83e209ea/pytorch_model.bin).
+- [VAD(Voice Activity Detection) Model](https://en.wikipedia.org/wiki/Voice_activity_detection) - download the model weights from [here](./assets/whisperx_vad_segmentation.bin)(~17MB).
 
 ### NOTE
 
